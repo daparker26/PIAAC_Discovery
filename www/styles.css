@@ -1,0 +1,39 @@
+.filterSpacing {
+  margin-left: 18px;
+}
+
+.leaflet-top,
+.leaflet-bottom {
+  z-index: auto; !important
+}
+
+#resetButtonContainer {
+  margin-bottom: 25px;
+}
+
+.info-box .info-box-content {
+  margin-left: 60px;
+  padding-top: 0px;
+}
+
+.info-box .info-box-text {
+  font-size: 18px;
+}
+
+.info-box .info-box-number {
+  font-weight: 400;
+  font-size: 12px;
+  text-decoration: line-through;
+  color: #dd4b39;
+}
+
+.info-box .info-box-icon {
+  height: 30px;
+  line-height: 0;
+  width: 60px;
+}
+
+.fa.fa-list {
+  font-size: 20px;
+  line-height: 30px;
+}
